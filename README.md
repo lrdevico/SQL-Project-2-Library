@@ -38,9 +38,3 @@ This is my second SQL project using PostgreSQL, where I designed and implemented
 - PostgreSQL
 - SQL (DDL, DML, PL/pgSQL)
 - pgAdmin 4 (for development and testing)
-
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
